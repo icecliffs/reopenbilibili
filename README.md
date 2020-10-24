@@ -1,4 +1,4 @@
-'''
+```php
 <?php
 show_source("index1.php");
 include "flag.php";
@@ -14,4 +14,4 @@ if(isset($_GET['a']) and isset($_GET['b'])){
     }
 }
 ?>
-'''
+```
